@@ -1,0 +1,20 @@
+{   
+    "category":"AI",
+    "subcategory":"wheelchair",
+    "location":"DEFAULT TEST",
+    "floor":"l3",
+    "camera":"camera02",
+    "eventlocation":"CCAI",
+    "timestamp":"2021-03-03T07:37:33Z",
+    "aiid":"02",
+    "jobid":"20220308_213400_873817",
+    "event":"{'tags': [4, 5, 6]}",
+    "description":"AI event",
+    "reportedBy":"DeepAI",
+    "eventlocation":"{'rect': ['x', 'y', 'w', 'h']}",
+    "sourceid":"Robert-test",
+    "site":"CW",
+    "properties":"N/A",
+    "scenarios_properties":"ALERT",
+    "status":"DETECTED"
+}
